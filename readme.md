@@ -2,4 +2,4 @@ Acklen Avenue Application
 
 Refactored with Strategy Pattern
 
-Is added chhanges and original interview files now are main_2_spec.rb and main.rb
+Is added changes and originals interview files now are main_2_spec.rb and main.rb
